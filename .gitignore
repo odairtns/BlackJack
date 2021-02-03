@@ -1,0 +1,12 @@
+#ignoring this text file
+00-Milestone-2-Warmup-Project.ipynb
+01-Milestone Project 2 - Assignment.ipynb
+02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb
+03-Milestone Project 2 - Complete Walkthrough Solution.ipynb
+Backjack-checkpoint.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+
+#ignoring whole directory
+.ipynb_checkpoints/*
+__pycache__/*
